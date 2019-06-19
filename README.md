@@ -1,0 +1,2 @@
+# dc
+Dictionary Command Line
